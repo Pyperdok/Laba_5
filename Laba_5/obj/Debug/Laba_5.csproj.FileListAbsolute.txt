@@ -1,0 +1,10 @@
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe.config
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.pdb
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csprojAssemblyReference.cache
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.Properties.Resources.resources
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.GenerateResource.cache
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.exe
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.pdb
+C:\Users\Pyperdok\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.Form1.resources
